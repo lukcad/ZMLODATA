@@ -2,7 +2,7 @@
 
 ## Overview
 
-Demo project from Lukyanau Mikhail to let you understand hwo you can create OData service from scratch upon of your data model without using additional frameworks as CDS+RAP or CDS+BOPF.
+Demo project from Lukyanau Mikhail to let you understand how you can create OData service from scratch upon of your data model without using additional frameworks as CDS+RAP or CDS+BOPF.
 
 Also this project has a good documentation in SAP community where author is explaided full path of creating OData service from scratch by using Eclipse + ADT + adjusted SAP GUI accessible from Eclipse by Alt+F8.
 
