@@ -61,6 +61,9 @@ Table of all possible for this service CRUD operations:
 |Delete Travel record  (you should know TravelId) | DELETE | accept:applicaiton/json content-type:applicaiton/json if-match:* | - | /sap/opu/odata/sap/ZML_TRAVELLING_ODT_SRV/ZML_ITRAVELSet(guid('"0242ac11-0002-1eef-80aa-0315685dd657"') |
 |Delete Booking record  (you should know BookingId) | DELETE | accept:applicaiton/json content-type:applicaiton/json if-match:* | - | /sap/opu/odata/sap/ZML_TRAVELLING_ODT_SRV/ZML_IBOOKINGSet(guid('"0242ac11-0002-1eef-80aa-0315685dd657"') |
 
+## Understanding code
+
+Please read documentation about this on my blog in SAP community here: `link is coming soon...`
 
 Happy studding code and programming!
 
