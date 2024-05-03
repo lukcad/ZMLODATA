@@ -63,7 +63,8 @@ Table of all possible for this service CRUD operations:
 
 ## Understanding code
 
-Please read documentation about this on my blog in SAP community here: [SAP community blog: Creation of Odata Service with implementation of CRUD methods and deep inserting](https://community.sap.com/t5/application-development-blog-posts/creation-of-odata-service-with-implementation-of-crud-methods-and-deep/ba-p/13685666)
+Please read documentation about this on my blog in SAP community here: 
+https://community.sap.com/t5/application-development-blog-posts/creation-of-odata-service-with-implementation-of-crud-methods-and-deep/ba-p/13685666
 
 Happy studding code and programming!
 
