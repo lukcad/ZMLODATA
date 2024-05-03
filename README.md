@@ -63,7 +63,7 @@ Table of all possible for this service CRUD operations:
 
 ## Understanding code
 
-Please read documentation about this on my blog in SAP community here: 
+Please read documentation about this on my blog in SAP community here (I recommend to copy this link and paste in browser, because redirecting from github can give you 403 forbidden error): 
 [https://community.sap.com/t5/application-development-blog-posts/creation-of-odata-service-with-implementation-of-crud-methods-and-deep/ba-p/13685666](https://community.sap.com/t5/application-development-blog-posts/creation-of-odata-service-with-implementation-of-crud-methods-and-deep/ba-p/13685666#)
 
 Happy studding code and programming!
